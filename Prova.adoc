@@ -1,16 +1,7 @@
-**b**old le**tt**ers
+**PROVA 1 ASCIIDOC**
 
-= Document Title (Level 0)
+= Titolone
 
-== Level 1 Section Title
+== Titolino
 
-=== Level 2 Section Title
-
-==== Level 3 Section Title
-
-===== Level 4 Section Title
-
-====== Level 5 Section Title
-
-== Another Level 1 Section Title
-
+:icons: font hearts
