@@ -4,4 +4,4 @@
 
 == Titolino
 
-:icons: font hearts
+
